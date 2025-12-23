@@ -1,3 +1,3 @@
 <h2 style="text-align:center">Online Food Ordering System Project in PHP and SQL</h2><br/><br/>
-
-![online food ordering system project in php and sql](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/patricia/15.webp) <br/><br/>The online food ordering system project in php and sql frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://enatega.com/?utm_source=github&utm_medium=repo&utm_campaign=patricia-online-food-ordering-system-project-in-php-and-sql" target="_blank">click here.</a>
+ 
+ ![online food ordering system project in php and sql](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/patricia/15.webp) <br/><br/>The online food ordering system project in php and sql frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://enatega.com/patricia-online-food-ordering-system-project-in-php-and-sql" target="_blank">click here.</a>
